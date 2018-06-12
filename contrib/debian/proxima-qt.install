@@ -1,0 +1,6 @@
+usr/local/bin/proxima-qt usr/bin
+share/pixmaps/proxima32.xpm usr/share/pixmaps
+share/pixmaps/proxima16.xpm usr/share/pixmaps
+share/pixmaps/proxima128.png usr/share/pixmaps
+debian/proxima-qt.desktop usr/share/applications
+debian/proxima-qt.protocol usr/share/kde4/services/

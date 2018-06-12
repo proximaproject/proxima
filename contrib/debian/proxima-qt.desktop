@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the Proxima P2P Network
+Exec=proxima-qt %u
+Terminal=false
+Type=Application
+Icon=proxima128
+MimeType=x-scheme-handler/proxima;
+Categories=Office;Finance;
